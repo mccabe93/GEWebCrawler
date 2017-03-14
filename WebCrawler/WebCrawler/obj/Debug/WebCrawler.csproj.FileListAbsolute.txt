@@ -1,0 +1,6 @@
+c:\users\mike\documents\visual studio 2015\Projects\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe
+c:\users\mike\documents\visual studio 2015\Projects\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+c:\users\mike\documents\visual studio 2015\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2015\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.exe
+c:\users\mike\documents\visual studio 2015\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
